@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: VitePress
+title: VitePress123
 titleTemplate: 由 Vite 和 Vue 驱动的静态站点生成器
 
 hero:
