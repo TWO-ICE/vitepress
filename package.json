@@ -190,6 +190,7 @@
     "synckit": "^0.9.2",
     "tinyglobby": "^0.2.10",
     "typescript": "^5.6.3",
+    "vitepress-sidebar": "^1.30.2",
     "vitest": "^2.1.4",
     "vue-tsc": "^2.1.10",
     "wait-on": "^8.0.1"
